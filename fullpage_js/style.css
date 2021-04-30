@@ -1,0 +1,52 @@
+
+/* Heading styling */
+h1{
+    color: white; 
+    background-color: black;
+    width: max-content;
+    padding: 1rem 2rem;
+    margin: auto;
+}
+
+#section4 h1 {
+    margin-left: 1rem;
+}
+/* Textstyling for Sections */
+.section {
+    text-align:center;
+    font-size: 4em;
+    font-family: 'Karantina', cursive;
+}
+
+/* Tooltip Styling */
+.fp-tooltip{
+    color: white !important;
+    font-weight: 700;
+}
+
+#fp-nav ul li a span, .fp-slidesNav ul li a span{
+    background: white !important; 
+}
+
+/* Background Images für alle Sections */
+#section1{
+    background-image: url("https://images.unsplash.com/photo-1547380109-a2fffd5b9036?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop");
+    background-size: cover;
+}
+
+#section2-1{
+    background-image: url("https://images.unsplash.com/photo-1547979854-5333256878de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop");
+    background-size: cover;
+}
+#section2-2{
+    background-image: url("https://images.unsplash.com/photo-1548602088-9d12a4f9c10f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop");
+    background-size: cover;
+}
+#section3{
+    background-image: url("https://images.unsplash.com/photo-1548913344-66177da9425e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop");
+    background-size: cover;
+}
+#section4{
+    background-image: url("https://images.unsplash.com/photo-1588200618450-3a5b1d3b9aa5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fHBvdHJhaXR8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop");
+    background-size: cover;
+}
